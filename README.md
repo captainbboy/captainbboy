@@ -21,7 +21,7 @@
 
 <h3>Some interesting stats:</h3>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=captainbboy&show_icons=true&theme=tokyonight" alt="Steviegt6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainbboy&theme=tokyonight" alt="Steviegt6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainbboy&hide_border=true&theme=tokyonight" alt="Steviegt6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=captainbboy&show_icons=true&theme=tokyonight&count_private=true" alt="captainbboy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainbboy&theme=tokyonight&count_private=true" alt="captainbboy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=captainbboy&hide_border=true&theme=tokyonight&count_private=true" alt="captainbboy" />
 </p>
